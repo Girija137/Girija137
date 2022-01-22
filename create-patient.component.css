@@ -1,0 +1,9 @@
+body,
+html {
+  background-image: url("https://www.healthcareitnews.com/sites/hitn/files/Hospital-HITN.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  height: 600px;
+}
